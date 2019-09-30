@@ -11,8 +11,6 @@ The neural network is built in three iterations. Starting with a Hello World ver
 
 ### Overview 
 
-We’ll build the neural network in three iterations. 
-
 First, we’ll make a bare minimum version to get a hang of the moving parts. The second version, HTML, will focus on automating all the steps and explaining the neural network layers. In the final version, Bootstrap, we’ll create a model that can generalize and explore the LSTM layer.
 
 Here’s a quick overview of the process. 
