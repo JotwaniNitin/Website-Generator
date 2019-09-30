@@ -1,7 +1,7 @@
 # Coursera | Show Your Skills | Technology Stack
 # Website-Generator using Deep Learning
 
-### Introdction
+### Introduction
 
 Deep learning will change front-end development in the coming years. It will increase prototyping speed and lower the barrier for building software. Such has been the claim by a number of ML Scientists and Practitioners. The field took off last year when Tony Beltramelli introduced the pix2code paper. 
 
@@ -32,6 +32,11 @@ To read the complete report, kindly refer the PDF in the repository.
  
 Now the run the model by running the ipynb files in jupyter notebook.
 
+### Coursera Courses Referred
+
+1. Deep Learning Specialisation by deeplearning.ai
+2. Mathematics for Machine Learning by Imperial College London
+3. Machine Learning by Andrew Ng
 
 
  
