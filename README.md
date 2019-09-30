@@ -26,7 +26,9 @@ To read the complete report, kindly refer the PDF in the repository.
  
 > git clone https://github.com/JotwaniNitin/Website-Generator.git 
 
-> cd Screenshot-to-code/ jupyter notebook 
+> cd Screenshot-to-code/ 
+
+> jupyter notebook 
  
 Now run the model by running the ipynb files in jupyter notebook.
 
