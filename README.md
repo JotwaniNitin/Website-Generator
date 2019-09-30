@@ -30,7 +30,7 @@ To read the complete report, kindly refer the PDF in the repository.
 
 > cd Screenshot-to-code/ jupyter notebook 
  
-Now the run the model by running the ipynb files in jupyter notebook.
+Now run the model by running the ipynb files in jupyter notebook.
 
 ### Coursera Courses Referred
 
